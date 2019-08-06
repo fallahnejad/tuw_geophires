@@ -1,0 +1,139 @@
+Parameter,par_with_unit,key_par,Reservoir Model,Fracture Shape,Ramey Production Wellbore Model,Reservoir Volume Option,Reservoir Impedance,End-Use Option,Power Plant Type,Economic Model,Total Capital Cost,Well Drilling and Completion Capital Cost,Reservoir Stimulation Capital Cost,Surface Plant Capital Cost,Field Gathering System Capital Cost,Exploration Capital Cost,Total O&M Cost,Wellfield O&M Cost,Surface Plant O&M Cost,Water Cost,default_val
+Reservoir Model,Reservoir Model,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,4
+Drawdown Parameter,Drawdown Parameter (kg/s/m^2),-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.0001
+Drawdown Parameter,Drawdown Parameter (1/year),-999,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.005
+Reservoir Depth,Reservoir Depth (km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Number of Segments,Number of Segments,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Gradient 1,Gradient 1 (deg.C/km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Gradient 2,Gradient 2 (deg.C/km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Thickness 1,Thickness 1 (km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2
+Gradient 3,Gradient 3 (deg.C/km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Thickness 2,Thickness 2 (km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2
+Gradient 4,Gradient 4 (deg.C/km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Thickness 3,Thickness 3 (km),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2
+Maximum Temperature,Maximum Temperature (deg.C),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,400
+Number of Production Wells,Number of Production Wells,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2
+Number of Injection Wells,Number of Injection Wells,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2
+Production Well Diameter,Production Well Diameter (Inch),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,8
+Injection Well Diameter,Injection Well Diameter (Inch),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,8
+Ramey Production Wellbore Model,Ramey Production Wellbore Model,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Production Wellbore Temperature Drop,Production Wellbore Temperature Drop (deg.C),-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,5
+Injection Wellbore Temperature Gain,Injection Wellbore Temperature Gain (deg.C),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Production Flow Rate per Well,Production Flow Rate per Well (kg/s),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Fracture Shape,Fracture Shape,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Fracture Shape,Fracture Shape,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Fracture Area,Fracture Area (m^2),-999,1,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,250000
+Fracture Area,Fracture Area (m^2),-999,2,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,250000
+Fracture Height,Fracture Height (m),-999,1,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Height,Fracture Height (m),-999,1,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Height,Fracture Height (m),-999,1,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Height,Fracture Height (m),-999,2,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Height,Fracture Height (m),-999,2,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Height,Fracture Height (m),-999,2,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Width,Fracture Width (m),-999,1,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Fracture Width,Fracture Width (m),-999,2,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,500
+Reservoir Volume Option,Reservoir Volume Option,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,4
+Reservoir Volume Option,Reservoir Volume Option,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,4
+Reservoir Volume Option,Reservoir Volume Option,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Reservoir Volume Option,Reservoir Volume Option,-999,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Reservoir Volume Option,Reservoir Volume Option,-999,5,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Number of Fractures,Number of Fractures,-999,1,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Number of Fractures,Number of Fractures,-999,1,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Number of Fractures,Number of Fractures,-999,2,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Number of Fractures,Number of Fractures,-999,2,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Fracture Separation,Fracture Separation (m),-999,1,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Fracture Separation,Fracture Separation (m),-999,1,-999,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Fracture Separation,Fracture Separation (m),-999,2,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Fracture Separation,Fracture Separation (m),-999,2,-999,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,50
+Reservoir Volume,Reservoir Volume (m^3),-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,125000000
+Reservoir Volume,Reservoir Volume (m^3),-999,-999,-999,-999,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,125000000
+Water Loss Fraction,Water Loss Fraction,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Water Loss Fraction,Water Loss Fraction,-999,-999,-999,-999,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Reservoir Impedance,Reservoir Impedance (Gpa*s/m^3),-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.1
+Productivity Index,Productivity Index (kg/s/bar),-999,-999,-999,-999,-999,0,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Productivity Index,Productivity Index (kg/s/bar),-999,-999,-999,-999,-999,0,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Injectivity Index,Injectivity Index (kg/s/bar),-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,10
+Reservoir Hydrostatic Pressure,Reservoir Hydrostatic Pressure (kPa),-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Production Wellhead Pressure,Production Wellhead Pressure (kPa),-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Plant Outlet Pressure,Plant Outlet Pressure (kPa),-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Injection Temperature,Injection Temperature (deg.C),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,70
+Maximum Drawdown,Maximum Drawdown,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Maximum Drawdown,Maximum Drawdown,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Maximum Drawdown,Maximum Drawdown,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Maximum Drawdown,Maximum Drawdown,-999,4,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Reservoir Heat Capacity,Reservoir Heat Capacity (J/kg/K),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1000
+Reservoir Density,Reservoir Density (kg/m^3),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2700
+Reservoir Thermal Conductivity,Reservoir Thermal Conductivity (W/m/K),-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Reservoir Thermal Conductivity,Reservoir Thermal Conductivity (W/m/K),-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Reservoir Thermal Conductivity,Reservoir Thermal Conductivity (W/m/K),-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Reservoir Thermal Conductivity,Reservoir Thermal Conductivity (W/m/K),-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,3
+Reservoir Porosity,Reservoir Porosity,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.04
+End-Use Option,End-Use Option,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,31,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,32,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,41,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,42,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,51,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Power Plant Type,Power Plant Type,-999,-999,-999,-999,-999,-999,52,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1
+Circulation Pump Efficiency,Circulation Pump Efficiency,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.75
+Utilization Factor,Utilization Factor,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,31,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,32,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,41,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,42,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,51,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+End-Use Efficiency Factor,End-Use Efficiency Factor,-999,-999,-999,-999,-999,-999,52,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.9
+CHP Fraction,CHP Fraction,-999,-999,-999,-999,-999,-999,51,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.5
+CHP Fraction,CHP Fraction,-999,-999,-999,-999,-999,-999,52,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.5
+CHP Bottoming Entering Temperature,CHP Bottoming Entering Temperature (deg.C),-999,-999,-999,-999,-999,-999,41,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,150
+CHP Bottoming Entering Temperature,CHP Bottoming Entering Temperature (deg.C),-999,-999,-999,-999,-999,-999,42,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,150
+Surface Temperature,Surface Temperature (deg.C),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,31,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,32,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,41,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,42,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,51,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Ambient Temperature,Ambient Temperature (deg.C),-999,-999,-999,-999,-999,-999,52,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,15
+Plant Lifetime,Plant Lifetime (years),1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,30
+Economic Model,Economic Model,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,2
+Fixed Charge Rate,Fixed Charge Rate,-999,-999,-999,-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.1
+Discount Rate,Discount Rate,-999,-999,-999,-999,-999,-999,-999,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.07
+Fraction of Investment in Bonds,Fraction of Investment in Bonds,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.5
+Inflated Bond Interest Rate,Inflated Bond Interest Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.05
+Inflated Equity Interest Rate,Inflated Equity Interest Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.1
+Inflation Rate,Inflation Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.02
+Combined Income Tax Rate,Combined Income Tax Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.3
+Gross Revenue Tax Rate,Gross Revenue Tax Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Investment Tax Credit Rate,Investment Tax Credit Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Property Tax Rate,Property Tax Rate,-999,-999,-999,-999,-999,-999,-999,-999,3,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Inflation Rate During Construction,Inflation Rate During Construction,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Total Capital Cost,Total Capital Cost (M.USD),-999,-999,-999,-999,-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,0
+Well Drilling and Completion Capital Cost,Well Drilling and Completion Capital Cost (M.USD/well),-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,-999,0
+Well Drilling and Completion Capital Cost Adjustment Factor,Well Drilling and Completion Capital Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,1
+Well Drilling Cost Correlation,Well Drilling Cost Correlation,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,-999,1
+Reservoir Stimulation Capital Cost,Reservoir Stimulation Capital Cost (M.USD),-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1,-999,-999,-999,-999,-999,-999,-999,0
+Reservoir Stimulation Capital Cost Adjustment Factor,Reservoir Stimulation Capital Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,-999,-999,-999,-999,1
+Surface Plant Capital Cost,Surface Plant Capital Cost (M.USD),-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,1,-999,-999,-999,-999,-999,-999,0
+Surface Plant Capital Cost Adjustment Factor,Surface Plant Capital Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,0,-999,-999,-999,-999,-999,-999,1
+Field Gathering System Capital Cost,Field Gathering System Capital Cost (M.USD),-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,1,-999,-999,-999,-999,-999,0
+Field Gathering System Capital Cost Adjustment Factor,Field Gathering System Capital Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,0,-999,-999,-999,-999,-999,1
+Exploration Capital Cost,Exploration Capital Cost (M.USD),-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,-999,1,-999,-999,-999,-999,0
+Exploration Capital Cost Adjustment Factor,Exploration Capital Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,-999,-999,0,-999,-999,-999,-999,1
+Total O&M Cost,Total O&M Cost (M.USD/year),-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,1,-999,-999,-999,0
+Wellfield O&M Cost,Wellfield O&M Cost (M.USD/year),-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,1,-999,-999,0
+Wellfield O&M Cost Adjustment Factor,Wellfield O&M Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,0,-999,-999,1
+Surface Plant O&M Cost,Surface Plant O&M Cost (M.USD/year),-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,1,-999,0
+Surface Plant O&M Cost Adjustment Factor,Surface Plant O&M Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,0,-999,1
+Water Cost,Water Cost (M.USD/year),-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,1,0
+Water Cost Adjustment Factor,Water Cost Adjustment Factor,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0,-999,-999,0,1
+Electricity Rate,Electricity Rate (USD/kWh),-999,-999,-999,-999,-999,-999,2,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.07
+Electricity Rate,Electricity Rate (USD/kWh),-999,-999,-999,-999,-999,-999,32,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.07
+Electricity Rate,Electricity Rate (USD/kWh),-999,-999,-999,-999,-999,-999,42,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.07
+Electricity Rate,Electricity Rate (USD/kWh),-999,-999,-999,-999,-999,-999,52,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.07
+Heat Rate,Heat Rate (USD/kWh),-999,-999,-999,-999,-999,-999,31,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.02
+Heat Rate,Heat Rate (USD/kWh),-999,-999,-999,-999,-999,-999,41,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.02
+Heat Rate,Heat Rate (USD/kWh),-999,-999,-999,-999,-999,-999,51,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,0.02
+Time steps per year,Time steps per year,1,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,-999,4
