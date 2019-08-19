@@ -199,7 +199,7 @@ def call_tuw_geophires(output_path, uploaded_json_file, uploaded_reservoir_outpu
             input_text.append(item + ', ' + str(entry[i]) + ',\n')
         # if reservoir model type 5 selected, create reservoir output
         contentprodtemp = []
-        if entry[0] == 5:
+        if entry[1] == 5:
             if uploaded_reservoir_output_file == "":
                 failure_flag = 1
                 failure_object_ids.append(row)
@@ -297,6 +297,6 @@ def call_tuw_geophires(output_path, uploaded_json_file, uploaded_reservoir_outpu
 if __name__ == "__main__":
     upload_path = cwd + "/uploads"
     output_path = cwd + "/outputs"
-    uploaded_json_file = upload_path + '/egs2000.geojson'
+    uploaded_json_file = upload_path + '/egs2000_5_entries.geojson'
     uploaded_reservoir_output_file = upload_path + '/uploaded_reservoir_output.csv'
     call_tuw_geophires(output_path, uploaded_json_file, uploaded_reservoir_output_file)
