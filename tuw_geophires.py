@@ -483,7 +483,7 @@ def run_tuw_geophires(content, contentprodtemp, id=1, output_text='summary.txt',
             print("Warning: Selected Ramey Production Wellbore Model parameter not valid. TUW-GEOPHIRES will assume default production wellbore model (Ramey model active)")
     except:
         rameyoptionprod = 1
-        print("Warning: No valid Ramey Production Wellbore Model parameter provided. TUW-GEOPHIRES will assume default productino wellbore model (Ramey model active)")
+        print("Warning: No valid Ramey Production Wellbore Model parameter provided. TUW-GEOPHIRES will assume default production wellbore model (Ramey model active)")
     
     #tempdropprod: temperature drop in production well in deg. C (if Ramey model is not used)
     if rameyoptionprod == 0:
