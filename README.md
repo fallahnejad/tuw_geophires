@@ -1,6 +1,6 @@
 # TUW-GEOPHIRES 2.1
 Use this module to calculate the cost of geothermal energy for different applications.
-To test the module, navigate to [this link](https://tuw-geophires.invert.at).
+To test the module, navigate to <a href="https://tuw-geophires.invert.at" target="_blank">this link</a>.
 
 
 
