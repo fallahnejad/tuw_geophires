@@ -1,4 +1,7 @@
 # TUW-GEOPHIRES 2.1
+GEOPHIRES 2 was originally developed by [Koenraad Beckers](koenraad.beckers@heateon.com) and [Kevin McCabe](kevin.mccabe@nrel.gov). TUW-GEOPHIRES aims to add additional features to the original model.
+
+
 Use this module to calculate the cost of geothermal energy for different applications.
 To test the module, navigate to <a href="https://tuw-geophires.invert.at" target="_blank">this link</a>.
 
