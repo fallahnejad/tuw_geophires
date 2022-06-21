@@ -6,7 +6,7 @@ Fiona==1.8.6
 geopandas==0.5.1
 mpmath==1.1.0
 munch==2.3.2
-numpy==1.17.0
+numpy==1.22.0
 pandas==0.25.0
 pyproj==2.2.1
 python-dateutil==2.8.0
